@@ -40,7 +40,7 @@ The dataset is derived from the laboratory tests, and captures the raw and unsca
 ## Metrics Score
 
 <p align="center">
-  <img src="https://github.com/lexxus16/cement_strength_analysis/assets/69308391/0955eb98-6543-4e3c-b157-71beac742a11" alt="Alt Text" width="300"/>
+  <img src="https://github.com/lexxus16/cement_strength_analysis/assets/69308391/0955eb98-6543-4e3c-b157-71beac742a11" alt="Alt Text" width="270"/>
 </p>
 
 ## Contributing
